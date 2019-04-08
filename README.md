@@ -1,2 +1,2 @@
 # WebChat
-WebSocket WebIM
+WebSocket WebChat
